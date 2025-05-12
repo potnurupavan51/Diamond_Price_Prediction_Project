@@ -1,7 +1,7 @@
 # **Diamond Price Prediction Project**
 
 ## **Overview**
-
+ 
 This project aims to predict the price of diamonds using a regression analysis approach. A dataset containing various attributes of diamonds (carat, cut, color, clarity, etc.) is used to train several regression models. The best-performing model can then be used to estimate the price of a diamond given its characteristics.
 
 ## **Technologies Used**
